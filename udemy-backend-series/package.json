@@ -1,0 +1,18 @@
+{
+  "name": "section-23",
+  "version": "1.0.0",
+  "description": "learning section 23 from backend udemy course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "nirma",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^11.0.2",
+    "nodemon": "^3.1.7",
+    "qr-image": "^3.2.0"
+  }
+}
